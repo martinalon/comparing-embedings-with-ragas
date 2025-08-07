@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does quantum physics study?",
+    "ground_truth": "It studies the behavior of matter and energy at very small scales, such as atoms and subatomic particles."
+  },
+  {
+    "question": "How does quantum physics differ from classical physics?",
+    "ground_truth": "Quantum physics deals with small-scale phenomena and introduces concepts like wave-particle duality and energy quantization, unlike classical physics."
+  },
+  {
+    "question": "What does Heisenberg's uncertainty principle state?",
+    "ground_truth": "It states that it is impossible to know both the exact position and momentum of a particle at the same time."
+  },
+  {
+    "question": "What is quantum superposition?",
+    "ground_truth": "It is the principle that a particle can exist in multiple states at once until it is measured."
+  },
+  {
+    "question": "What does quantum entanglement imply?",
+    "ground_truth": "That the state of one entangled particle instantly affects the state of another, regardless of the distance between them."
+  }
+]

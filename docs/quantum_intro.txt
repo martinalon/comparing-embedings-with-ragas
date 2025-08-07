@@ -1,0 +1,11 @@
+Page 1:
+
+Quantum physics is a branch of physics that studies the behavior of matter and energy at extremely small scales, such as atoms and subatomic particles. Unlike classical physics, which describes macroscopic phenomena, quantum physics introduces fundamental concepts like wave-particle duality and energy quantization.
+
+One of the most important principles in quantum mechanics is Heisenberg's uncertainty principle, which states that it is impossible to simultaneously know both the exact position and momentum of a particle. This reflects an intrinsic property of nature, not just a limitation of measurement tools.
+
+Page 2:
+
+Another key concept is quantum superposition, which means a particle can exist in multiple states at the same time until it is measured. This principle is the basis of the famous thought experiment known as Schrödinger's cat.
+
+Quantum entanglement is another remarkable feature. When two particles are entangled, the state of one instantly affects the state of the other, regardless of the distance between them. This phenomenon has been experimentally confirmed and is fundamental to emerging technologies like quantum computing and quantum cryptography.
